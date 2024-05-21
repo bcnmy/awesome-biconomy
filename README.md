@@ -16,7 +16,7 @@ https://biconomy.notion.site/Biconomy-AA-Use-cases-Examples-7c8f7ff3774848d3a059
 
 
 ## Frames
-- Biconomy SDK integration - https://github.com/bcnmy/frames
+- Create a smart account via frames using Biconomy SDK - https://github.com/bcnmy/frames
 
 ## Hackathon projects 
 - https://github.com/EthconKorea2023/mandala
