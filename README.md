@@ -1,8 +1,22 @@
 # awesome-biconomy
 Compilation of compelling project ideas and useful resources for utilizing Biconomy
 
+## Featured Integrations
+- Social Login & Gasless transactions:
+   - [Anichess](https://anichess.com/)
+   - [Eesee](https://eesee.io/)
+   - [FanTV](https://fantv.world/)
+   - [GetReach](https://app.getreach.xyz/)
+- Telegram bot:
+   - [Perpie](https://www.perpie.io/) (Social Login + Pay Gas in ERC20 + batching)
+- PWA
+   - [Alfafrens](https://www.alfafrens.com/)
+- Session Key Module
+   - [Dexodus](https://dexodus.xyz/)
+- Wallets
+   - [Trust Wallet](https://trustwallet.com/)
+   - [Zeal Wallet](https://www.zeal.app/)
 
-## Use-cases
 https://biconomy.notion.site/Biconomy-AA-Use-cases-Examples-7c8f7ff3774848d3a0591bc248646bad
 
 ## Modules
