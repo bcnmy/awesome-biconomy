@@ -30,6 +30,7 @@ For more examples, visit [Biconomy AA usecases](https://biconomy.notion.site/Bic
 
 ## Frames
 - [Create a smart account via frames using Biconomy SDK](https://github.com/bcnmy/frames)
+- [DegenJack Card game using Gasless transactions via Biconomy SA](https://warpcast.com/abhishekkumar/0x842296e5)
 
 ## Hackathon projects 
 - [Mandala - Ethcon Korea 2023](https://github.com/EthconKorea2023/mandala)
