@@ -17,6 +17,7 @@ A curated list of innovative project ideas and essential resources for leveragin
 - Wallets
    - [Trust Wallet](https://trustwallet.com/)
    - [Zeal Wallet](https://www.zeal.app/)
+   - [WalletX | A Gasless Smart Wallet](https://getwalletx.com/)
 
 For more examples, visit [Biconomy AA usecases](https://biconomy.notion.site/Biconomy-AA-Use-cases-Examples-7c8f7ff3774848d3a0591bc248646bad).
 
