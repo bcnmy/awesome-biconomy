@@ -35,5 +35,8 @@ For more examples, visit [Biconomy AA usecases](https://biconomy.notion.site/Bic
 ## Hackathon projects 
 - [Mandala - Ethcon Korea 2023](https://github.com/EthconKorea2023/mandala)
 
+## Useful Demos
+   ### Connecting your project to external Dapps via Wallet Connect URI
+   - [Wallet Demo](https://github.com/WalletConnect/web-examples/tree/main/advanced/wallets/react-wallet-v2)   
 
 Contributions are welcome! Help fellow developers by suggesting a new project, integration, or resource through a pull request (PR).
