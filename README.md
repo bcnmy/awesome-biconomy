@@ -1,5 +1,6 @@
 # awesome-biconomy
-Compilation of compelling project ideas and useful resources for utilizing Biconomy
+A curated list of innovative project ideas and essential resources for leveraging Biconomy.
+
 
 ## Featured Integrations
 - Social Login & Gasless transactions:
@@ -17,20 +18,21 @@ Compilation of compelling project ideas and useful resources for utilizing Bicon
    - [Trust Wallet](https://trustwallet.com/)
    - [Zeal Wallet](https://www.zeal.app/)
 
-https://biconomy.notion.site/Biconomy-AA-Use-cases-Examples-7c8f7ff3774848d3a0591bc248646bad
+For more examples, visit [Biconomy AA usecases](https://biconomy.notion.site/Biconomy-AA-Use-cases-Examples-7c8f7ff3774848d3a0591bc248646bad).
 
 ## Modules
-**Resources**
-- https://www.youtube.com/watch?v=A3XfF3N7x1A
-- https://wallet-ecosystem.notion.site/Smart-Account-Modules-8873025da42c49648bfe03bf980c89d6
+- [Smart Accounts Modules Video](https://www.youtube.com/watch?v=A3XfF3N7x1A)
+- [Modules list](https://wallet-ecosystem.notion.site/Smart-Account-Modules-8873025da42c49648bfe03bf980c89d6)
 
 **Custom Modules**
-- https://github.com/0xrhsmt/biconomy-schnorr-module/tree/main
-- https://github.com/Destiner/module-frame
-
+- [Biconomy Schnorr Module](https://github.com/0xrhsmt/biconomy-schnorr-module/tree/main)
+- [Module Frame](https://github.com/Destiner/module-frame)
 
 ## Frames
-- Create a smart account via frames using Biconomy SDK - https://github.com/bcnmy/frames
+- [Create a smart account via frames using Biconomy SDK](https://github.com/bcnmy/frames)
 
 ## Hackathon projects 
-- https://github.com/EthconKorea2023/mandala
+- [Mandala - Ethcon Korea 2023](https://github.com/EthconKorea2023/mandala)
+
+
+Contributions are welcome! Help fellow developers by suggesting a new project, integration, or resource through a pull request (PR).
