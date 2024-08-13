@@ -38,6 +38,10 @@ For more examples, visit [Biconomy AA usecases](https://biconomy.notion.site/Bic
 
 ## Useful Demos
    ### Connecting your project to external Dapps via Wallet Connect URI
-   - [Wallet Demo](https://github.com/WalletConnect/web-examples/tree/main/advanced/wallets/react-wallet-v2)   
+   - [Wallet Demo](https://github.com/WalletConnect/web-examples/tree/main/advanced/wallets/react-wallet-v2)
+   ### Telegram mini app with account abstraction
+   - [Telegram Super dApp Account Abstraction Magic!](https://github.com/andreykobal/telegram-mini-app-aa)
+   ### Viem SDK integration with Biconomy Infra
+   - [example code](https://gist.github.com/himanshugarg06/83327aaa1339efda42806e66143aa5c3)
 
 Contributions are welcome! Help fellow developers by suggesting a new project, integration, or resource through a pull request (PR).
