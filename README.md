@@ -43,5 +43,25 @@ For more examples, visit [Biconomy AA usecases](https://biconomy.notion.site/Bic
    - [Telegram Super dApp Account Abstraction Magic!](https://github.com/andreykobal/telegram-mini-app-aa)
    ### Viem SDK integration with Biconomy Infra
    - [example code](https://gist.github.com/himanshugarg06/83327aaa1339efda42806e66143aa5c3)
+   ### Creating Biconomy Smart Account with EOA & Social Login Providers
+   - [EOA](https://github.com/bcnmy/biconomy_eoa_example)
+   - [DFNS](https://github.com/dfns/dfns-sdk-ts/tree/m/examples/libs/viem/biconomy-aa-gasless)
+   - [Magic](https://github.com/bcnmy/biconomy_magic_example)
+   - [Particle](https://github.com/bcnmy/biconomy_particle_example)
+   - [Privy](https://github.com/bcnmy/biconomy_privy_example)
+   - [Turnkey](https://github.com/bcnmy/biconomy_turnkey_example)
+   - [Web3Auth](https://github.com/bcnmy/biconomy_web3auth_example)
+   ### Biconomy Session Keys Demo
+   - [example code](https://github.com/bcnmy/biconomy_sessions_example)
+
+## Awesome Tutorial Videos
+   ### Introduction To Session Keys
+   - [What are Session Keys](https://www.youtube.com/watch?v=4yBKLZxtx_k&t=54s)
+   - [Creating and Using A Session](https://www.youtube.com/watch?v=PyBwc8Nigx0&t=1011s)
+   ### useAA: React Hooks for Smart Accounts
+   - [useAA: React Hooks](https://www.youtube.com/watch?v=pSD0qPlXtgU)
+   ### Multichain Validation Module
+   - [MVM](https://www.loom.com/share/3a345810ec0047b4a0797449015d428f)
+
 
 Contributions are welcome! Help fellow developers by suggesting a new project, integration, or resource through a pull request (PR).
