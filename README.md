@@ -52,12 +52,14 @@ For more examples, visit [Biconomy AA usecases](https://biconomy.notion.site/Bic
    - [Turnkey](https://github.com/bcnmy/biconomy_turnkey_example)
    - [Web3Auth](https://github.com/bcnmy/biconomy_web3auth_example)
    ### Biconomy Session Keys Demo
-   - [example code](https://github.com/bcnmy/biconomy_sessions_example)
+   - [single txn](https://github.com/bcnmy/biconomy_sessions_example)
+   - [batched txns](https://github.com/bcnmy/biconomy_batch_sessions_example)
 
 ## Awesome Tutorial Videos
    ### Introduction To Session Keys
    - [What are Session Keys](https://www.youtube.com/watch?v=4yBKLZxtx_k&t=54s)
    - [Creating and Using A Session](https://www.youtube.com/watch?v=PyBwc8Nigx0&t=1011s)
+   - [Creating a Session for Batched Txns](https://www.youtube.com/watch?v=SG-jH7VwMvY)
    ### useAA: React Hooks for Smart Accounts
    - [useAA: React Hooks](https://www.youtube.com/watch?v=pSD0qPlXtgU)
    ### Multichain Validation Module
