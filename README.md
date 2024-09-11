@@ -6,8 +6,8 @@ A curated list of innovative project ideas and essential resources for leveragin
 - Social Login & Gasless transactions:
    - [Anichess](https://anichess.com/)
    - [Eesee](https://eesee.io/)
-   - [FanTV](https://fantv.world/)
    - [GetReach](https://app.getreach.xyz/)
+   - [Soccerverse](https://beta.soccerverse.io/)
 - Telegram bot:
    - [Perpie](https://www.perpie.io/) (Social Login + Pay Gas in ERC20 + batching)
 - PWA
