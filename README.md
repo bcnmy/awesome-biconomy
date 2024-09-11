@@ -8,6 +8,7 @@ A curated list of innovative project ideas and essential resources for leveragin
    - [Eesee](https://eesee.io/)
    - [GetReach](https://app.getreach.xyz/)
    - [Soccerverse](https://beta.soccerverse.io/)
+   - [Skyoneer](https://play.skyoneer.com/)
 - Telegram bot:
    - [Perpie](https://www.perpie.io/) (Social Login + Pay Gas in ERC20 + batching)
 - PWA
