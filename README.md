@@ -15,6 +15,7 @@ A curated list of innovative project ideas and essential resources for leveragin
    - [Alfafrens](https://www.alfafrens.com/)
 - Session Key Module
    - [Dexodus](https://dexodus.xyz/)
+   - [Fareplay](https://app.fareplay.io/coin-flip)
 - Wallets
    - [Trust Wallet](https://trustwallet.com/)
    - [Zeal Wallet](https://www.zeal.app/)
