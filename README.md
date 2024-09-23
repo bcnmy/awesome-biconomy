@@ -37,6 +37,7 @@ For more examples, visit [Biconomy AA usecases](https://biconomy.notion.site/Bic
 
 ## Hackathon projects 
 - [Mandala - Ethcon Korea 2023](https://github.com/EthconKorea2023/mandala)
+- [Clarity - ETHGlobal Singapore 2024](https://ethglobal.com/showcase/clarity-c2us8)
 
 ## Useful Demos
    ### Connecting your project to external Dapps via Wallet Connect URI
