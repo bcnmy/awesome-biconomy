@@ -67,6 +67,8 @@ For more examples, visit [Biconomy AA usecases](https://biconomy.notion.site/Bic
    - [useAA: React Hooks](https://www.youtube.com/watch?v=pSD0qPlXtgU)
    ### Multichain Validation Module
    - [MVM](https://www.loom.com/share/3a345810ec0047b4a0797449015d428f)
+   ### Debugging ERC4377 UserOps using Tenderly
+   - https://www.youtube.com/watch?v=2Dp7ZXdq1_Q&t=2s
 
 
 Contributions are welcome! Help fellow developers by suggesting a new project, integration, or resource through a pull request (PR).
